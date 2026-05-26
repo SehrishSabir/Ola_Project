@@ -17,6 +17,7 @@ Analyzing customer ratings
 **🖼️ Dashboard Slides**
 
 **1️⃣ Overall**
+
 ![Dashboard](Ola/Slides_imgs/Overall.jpg)
 **This slide presents detailed insights into different vehicle categories available on the platform.**
 
@@ -35,6 +36,7 @@ Bike
 E-Bike
 
 **2️⃣ Vehicle Type**
+
 ![Dashboard](Ola/Slides_imgs/Vehicle_Types.jpg)
 The Vehicle Type Dashboard provides a comparative analysis of different ride categories available on the OLA platform.
 This slide helps identify booking performance, travel patterns, and operational efficiency across vehicle types.
@@ -80,6 +82,7 @@ Comparative performance tracking
 
 
 **4️⃣ Ratings Dashboard**
+
 ![Dashboard](Ola/Slides_imgs/Cancellation.jpg)
 
 **5️⃣ Overall Dashboard Summary**
