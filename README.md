@@ -85,7 +85,7 @@ Comparative performance tracking
 
 ![Dashboard](Ola/Slides_imgs/Cancellation.jpg)
 
-**5️⃣ Overall Dashboard Summary**
+**5️⃣ Rating**
 
 ![Dashboard](Ola/Slides_imgs/Ratingn.jpg)
 
@@ -124,6 +124,6 @@ User behavior tracking
 
 **Sehrish**
 
-**GitHub: @[yourusername](https://github.com/SehrishSabir/)**
+**GitHub: (https://github.com/SehrishSabir/)**
 
 
