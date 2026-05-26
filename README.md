@@ -34,12 +34,6 @@ Auto
 Bike
 E-Bike
 
-**Key Insights:**
-Prime Sedan shows the highest booking value.
-E-Bike and Bike categories cover high travel distances.
-Auto rides have the lowest average travel distance.
-Prime SUV and Prime Plus maintain strong successful booking performance.
-
 **2️⃣ Vehicle Type**
 The Vehicle Type Dashboard provides a comparative analysis of different ride categories available on the OLA platform.
 This slide helps identify booking performance, travel patterns, and operational efficiency across vehicle types.
@@ -63,13 +57,6 @@ Auto
 Bike
 E-Bike
 
-**📈 Key Insights**
-
-Prime Sedan recorded the highest total booking value at 610K.
-E-Bike achieved strong booking performance with 606K total bookings.
-Bike rides showed the highest average travel distance of 26.13 KM.
-Auto services had the lowest average travel distance at 9.90 KM.
-Premium categories like Prime SUV and Prime Plus maintained stable successful booking values.
 
 **🎯 Purpose of This Dashboard**
 
@@ -79,7 +66,8 @@ Analyze customer travel behavior
 Monitor ride efficiency
 Support operational decision-making
 Improve fleet management strategies
-🛠️ Features
+
+**🛠️ Features**
 Interactive vehicle analysis
 Date range filtering
 KPI-focused visualization
@@ -89,34 +77,26 @@ Comparative performance tracking
 ![Dashboard](Ola/Slides_imgs/Vehicle_Types.jpg)
 
 
-3️⃣ Cancellation Dashboard
+3️⃣ Revenue Dashboard
 
-(Add your third slide screenshot here)
+![Dashboard](Ola/Slides_imgs/Revenue.jpg)
 
-Expected Insights:
-Cancellation rates
-User vs Driver cancellations
-Peak cancellation timings
-Operational impact
+
 4️⃣ Ratings Dashboard
+![Dashboard](Ola/Slides_imgs/Cancellationjpg)
 
-(Add your fourth slide screenshot here)
 
-Expected Insights:
-Customer ratings analysis
-Driver performance
-Feedback trends
-Service quality metrics
 5️⃣ Overall Dashboard Summary
 
-(Add your fifth slide screenshot here)
+![Dashboard](Ola/Slides_imgs/Rating.jpg)
 
 Expected Insights:
 Combined business overview
 KPI summary
 Final recommendations
 Growth analysis
-✨ Features
+
+**✨ Features**
 Interactive dashboard design
 Clean and modern UI
 Data-driven insights
@@ -130,39 +110,21 @@ Dashboard Design Principles
 
 Vehicle Type Dashboard
 
-(Add uploaded screenshot here)
-
-🚀 How to Use
-Clone the repository
-git clone <repository-link>
-Open the dashboard project file.
-Explore all 5 dashboard slides.
-📊 Business Insights
+**📊 Business Insights**
 Prime category vehicles generate higher booking value.
 Two-wheelers contribute significantly to total travel distance.
 Successful bookings remain consistent across premium categories.
 Average travel distance varies significantly by vehicle type.
-🔮 Future Enhancements
+
+**🔮 Future Enhancements**
 Real-time data integration
 Advanced filters
 Mobile-responsive dashboard
 Predictive analytics
 User behavior tracking
-🤝 Contributing
 
-Contributions are welcome.
+**Sehrish**
 
-Fork the repository
-Create a feature branch
-Commit your changes
-Open a Pull Request
-📄 License
-
-
-
-👨‍💻 Author
-
-Your Name
-GitHub: @yourusername
+**GitHub: @[yourusername](https://github.com/SehrishSabir/)**
 
 
