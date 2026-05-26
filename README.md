@@ -83,12 +83,11 @@ Comparative performance tracking
 
 
 4️⃣ Ratings Dashboard
-![Dashboard](Ola/Slides_imgs/Cancellationjpg)
-
+![Dashboard](Ola/Slides_imgs/Cancellation.jpg)
 
 5️⃣ Overall Dashboard Summary
 
-![Dashboard](Ola/Slides_imgs/Rating.jpg)
+![Dashboard](Ola/Slides_imgs/Ratingn.jpg)
 
 Expected Insights:
 Combined business overview
