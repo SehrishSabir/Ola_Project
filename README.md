@@ -36,148 +36,93 @@ The project transforms raw ride data into meaningful business insights through *
 
 ---
 
-# 📂 Dashboard Structure
+📊 Dashboard Pages
+1️⃣ Overall Analysis Dashboard
+KPIs
+Total Bookings
+Total Booking Value
+Ride Volume Trend
+Booking Status Breakdown
+Insights
+Business performance over time
+Booking growth trends
+Success vs cancellation rates
+2️⃣ Vehicle Type Dashboard
+KPIs
+Booking Value by Vehicle Type
+Successful Bookings
+Average Distance Travelled
+Total Distance Travelled
+Insights
+Most preferred vehicle category
+Highest revenue-generating vehicle type
+Vehicle performance comparison
+3️⃣ Revenue Dashboard
+KPIs
+Revenue by Payment Method
+Top 5 Customers by Booking Value
+Daily Revenue Trends
+Insights
+Customer spending patterns
+Payment preferences
+Revenue contribution analysis
+4️⃣ Cancellation Dashboard
+KPIs
+Customer Cancellation Rate
+Driver Cancellation Rate
+Cancellation Reasons
+Insights
+Major operational bottlenecks
+Key cancellation drivers
+Service improvement opportunities
+5️⃣ Ratings Dashboard
+KPIs
+Customer Ratings
+Driver Ratings
+Vehicle-wise Rating Comparison
+Insights
+Customer satisfaction trends
+Driver performance evaluation
+Service quality analysis
+🔍 Business Questions Solved
+Retrieve all successful bookings.
+Find average ride distance by vehicle type.
+Calculate customer cancellation rate.
+Identify top 5 customers by booking value.
+Analyze revenue by payment method.
+Compare customer and driver ratings.
+Determine top-performing vehicle categories.
+Analyze booking status distribution and ride trends.
+📈 Key Performance Indicators (KPIs)
+Total Bookings
+Total Revenue
+Successful Bookings
+Cancellation Rate
+Average Ride Distance
+Average Booking Value
+Customer Rating
+Driver Rating
+Top Customers
+Payment Method Distribution
+💡 Key Insights
 
-## 📊 Page 1 – Overall Analysis
+✅ Prime vehicle categories contribute significantly to revenue.
 
-**KPIs**
+✅ Customer demand varies across vehicle types.
 
-* Total Bookings
-* Successful Rides
-* Cancelled Rides
-* Total Revenue
-* Cancellation Rate
-* Average Booking Value
+✅ Cancellation patterns highlight operational challenges.
 
-**Insights**
+✅ Payment method analysis helps understand customer preferences.
 
-* Overall business performance
-* Booking trends
-* Peak demand periods
+✅ Higher customer ratings are associated with better service experience.
 
----
-
-## 🚗 Page 2 – Vehicle Type Analysis
-
-**KPIs**
-
-* Bookings by Vehicle Type
-* Revenue by Vehicle Type
-* Average Ride Value
-* Most Preferred Vehicle Category
-
-**Insights**
-
-* Customer preferences
-* Vehicle-wise performance comparison
-* Revenue contribution by vehicle category
-
----
-
-## 💰 Page 3 – Revenue Analysis
-
-**KPIs**
-
-* Total Revenue
-* Monthly Revenue Trend
-* Revenue by Vehicle Type
-* Average Revenue per Ride
-
-**Insights**
-
-* Revenue growth patterns
-* Top revenue-generating categories
-* Business performance trends
-
----
-
-## ❌ Page 4 – Cancellation Analysis
-
-**KPIs**
-
-* Total Cancelled Rides
-* Customer Cancellation Rate
-* Driver Cancellation Rate
-* Cancellation Reasons
-
-**Insights**
-
-* Operational bottlenecks
-* Major cancellation drivers
-* Opportunities to improve ride completion rates
-
----
-
-## ⭐ Page 5 – Rating Analysis
-
-**KPIs**
-
-* Average Customer Rating
-* Average Driver Rating
-* Vehicle-wise Ratings
-* Rating Distribution
-
-**Insights**
-
-* Customer satisfaction trends
-* Driver performance evaluation
-* Service improvement opportunities
-
----
-
-# 📈 Key Performance Indicators (KPIs)
-
-* Total Bookings
-* Successful Rides
-* Total Revenue
-* Average Ride Value
-* Average Ride Distance
-* Cancellation Rate
-* Customer Rating
-* Driver Rating
-
----
-
-# 🔍 Business Questions Solved
-
-1. Which vehicle category generates the highest revenue?
-2. Which vehicle type is most preferred by customers?
-3. What is the overall cancellation rate?
-4. What are the major reasons behind ride cancellations?
-5. Which vehicle categories contribute the highest booking volume?
-6. How does revenue vary across different vehicle categories?
-7. Which vehicle type receives the highest customer ratings?
-8. What are the peak booking periods and demand trends?
-
----
-
-# 💡 Key Insights
-
-✅ A few vehicle categories contribute a significant portion of total revenue.
-
-✅ Customer demand varies significantly across vehicle types.
-
-✅ Cancellation analysis helps identify operational inefficiencies and service gaps.
-
-✅ Higher-rated vehicle categories are associated with better customer retention.
-
-✅ Revenue and booking trends provide insights into business growth opportunities.
-
----
-
-# 🚀 Business Recommendations
-
-* Increase driver availability during peak demand periods.
-* Reduce cancellations by addressing major cancellation reasons.
-* Focus marketing campaigns on high-performing vehicle categories.
-* Improve customer experience to increase ratings and retention.
-* Introduce loyalty and promotional programs for frequent users.
-
----
-
-# 🏗️ Project Architecture
-
-```text
+🚀 Business Recommendations
+Increase driver availability during peak demand periods.
+Reduce cancellations by addressing major cancellation reasons.
+Focus marketing campaigns on high-performing vehicle categories.
+Improve customer experience to increase ratings and retention.
+Introduce loyalty programs for frequent riders.
+🏗️ Project Architecture
 Raw Dataset
       │
       ▼
@@ -194,13 +139,7 @@ Power BI Dashboard Development
       │
       ▼
 Business Insights & Recommendations
-```
-
----
-
-# 📁 Project Structure
-
-```text
+📁 Project Structure
 OLA-Ride-Analytics-Dashboard
 │
 ├── Dataset
@@ -211,24 +150,10 @@ OLA-Ride-Analytics-Dashboard
 ├── Documentation
 ├── Presentation
 └── README.md
-```
-
----
-
-# 📸 Dashboard Preview
-
-Add screenshots of:
-
-* Overall Dashboard
-* Vehicle Type Dashboard
-* Revenue Dashboard
-* Cancellation Dashboard
-* Rating Dashboard
-
----
 
 
-**🖼️ Dashboard Slides**
+
+**📸 Dashboard Preview**
 
 **1️⃣ Overall**
 
