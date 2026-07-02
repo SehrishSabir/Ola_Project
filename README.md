@@ -172,6 +172,7 @@ OLA-Ride-Analytics-Dashboard
 **1️⃣ Overall**
 
 ![Dashboard](Ola/Slides_imgs/Overall.jpg)
+
 **This slide presents detailed insights into different vehicle categories available on the platform.**
 
 **Included Metrics:**
