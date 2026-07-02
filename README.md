@@ -192,6 +192,7 @@ E-Bike
 **2️⃣ Vehicle Type**
 
 ![Dashboard](Ola/Slides_imgs/Vehicle_Types.jpg)
+
 The Vehicle Type Dashboard provides a comparative analysis of different ride categories available on the OLA platform.
 This slide helps identify booking performance, travel patterns, and operational efficiency across vehicle types.
 
