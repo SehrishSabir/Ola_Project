@@ -37,7 +37,9 @@ The project transforms raw ride data into meaningful business insights through *
 ---
 
 📊 Dashboard Pages
-1️⃣ Overall Analysis Dashboard
+
+**1️⃣ Overall Analysis Dashboard**
+
 KPIs
 Total Bookings
 Total Booking Value
@@ -47,7 +49,9 @@ Insights
 Business performance over time
 Booking growth trends
 Success vs cancellation rates
-2️⃣ Vehicle Type Dashboard
+
+**2️⃣ Vehicle Type Dashboard**
+
 KPIs
 Booking Value by Vehicle Type
 Successful Bookings
@@ -66,7 +70,9 @@ Insights
 Customer spending patterns
 Payment preferences
 Revenue contribution analysis
-4️⃣ Cancellation Dashboard
+
+**4️⃣ Cancellation Dashboard**
+
 KPIs
 Customer Cancellation Rate
 Driver Cancellation Rate
@@ -75,7 +81,9 @@ Insights
 Major operational bottlenecks
 Key cancellation drivers
 Service improvement opportunities
-5️⃣ Ratings Dashboard
+
+**5️⃣ Ratings Dashboard**
+
 KPIs
 Customer Ratings
 Driver Ratings
@@ -84,7 +92,9 @@ Insights
 Customer satisfaction trends
 Driver performance evaluation
 Service quality analysis
-🔍 Business Questions Solved
+
+**🔍 Business Questions Solved**
+
 Retrieve all successful bookings.
 Find average ride distance by vehicle type.
 Calculate customer cancellation rate.
@@ -93,7 +103,9 @@ Analyze revenue by payment method.
 Compare customer and driver ratings.
 Determine top-performing vehicle categories.
 Analyze booking status distribution and ride trends.
-📈 Key Performance Indicators (KPIs)
+
+**📈 Key Performance Indicators (KPIs)**
+
 Total Bookings
 Total Revenue
 Successful Bookings
@@ -104,7 +116,8 @@ Customer Rating
 Driver Rating
 Top Customers
 Payment Method Distribution
-💡 Key Insights
+
+**💡 Key Insights**
 
 ✅ Prime vehicle categories contribute significantly to revenue.
 
@@ -122,7 +135,8 @@ Reduce cancellations by addressing major cancellation reasons.
 Focus marketing campaigns on high-performing vehicle categories.
 Improve customer experience to increase ratings and retention.
 Introduce loyalty programs for frequent riders.
-🏗️ Project Architecture
+
+**🏗️ Project Architecture**
 Raw Dataset
       │
       ▼
